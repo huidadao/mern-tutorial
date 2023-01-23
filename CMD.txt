@@ -1,3 +1,5 @@
 yarn add express dotenv mongoose colors
 
 yarn add nodemon -D
+
+yarn add express-async-handler
