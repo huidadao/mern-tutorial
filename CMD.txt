@@ -5,3 +5,15 @@ yarn add nodemon -D
 yarn add express-async-handler
 
 yarn add bcryptjs jsonwebtoken
+
+yarn add concurrently -D
+
+
+
+--------------------------------
+# REDUX APP
+--------------------------------
+
+npx create-react-app@latest frontend --template redux
+
+

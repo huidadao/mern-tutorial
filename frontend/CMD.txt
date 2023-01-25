@@ -1,0 +1,6 @@
+yarn add react-router-dom
+
+npm install @babel/core @babel/preset-env
+
+yarn add react-icons
+
